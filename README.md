@@ -1,2 +1,2 @@
 # DiHA_overview_April2023
-Overview of all digital health applications which have ever been approved by the relevant authority (Bundesamt für Arzneimittel und Medizinprodukte) in Germany.
+The dataset comprises an information on all digital health applications (DiHA) or in German "Digitale Gesundheitsanwendungen (DiGA)" which have been approved by the German drug approval authority "Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)" in Germany until Aoril 2023. The data was collected from https://diga.bfarm.de/de for reseach purposes and is now made available to the general public.
